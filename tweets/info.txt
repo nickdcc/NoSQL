@@ -1,0 +1,1 @@
+a JSON pipeline query to filter tweets for certain topics
